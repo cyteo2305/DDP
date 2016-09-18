@@ -6,6 +6,4 @@ You need to input the distance of your trip and the price of gasoline for your t
 
 You also need to choose some specifications of the car's Cylinders, Displacement, Horse Power and Transmission. The table will show only the cars with the filters selected. You can sort the table according to the variable you want by clicking the arrows at the top of the table.
 
-Source code for ui.R and server.R files are available on the GitHub.
-
-To learn more, see [Interactive Documents](http://rmarkdown.rstudio.com/authoring_shiny.html).
+Source code for ui.R and server.R files are available on the [GitHub](https://github.com/cyteo2305/DDP).
