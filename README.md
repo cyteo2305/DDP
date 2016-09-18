@@ -8,6 +8,6 @@ Second, we should use Slidify or Rstudio Presenter to prepare a reproducible pit
 
 The app developed for the first part of the assignment is avalilable at: https://cyteo2305.shinyapps.io/Cars_Predictor/
 
-The presentation is available at: http://raencinas.github.io/data_products_slidify/index
+The presentation is available at: http://rpubs.com/cyteo2305/210061
 
 Files for the presentation are avalilable on the GitHub: https://github.com/cyteo2305/DDP
